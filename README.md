@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Cloud, Manual Testing ,Data Structures**
 
-- 💬 Ask me about **HTML ,CSS ,JavaScript ,Postman API**
+- 💬 Ask me about **C++,Java,HTML ,CSS ,JavaScript ,Postman API**
 
 - 📫 How to reach me **suyashjoshi1504@gmail.com**
 
